@@ -1,0 +1,14 @@
+Flask==2.2.2
+Flask_Cors==3.0.10
+matplotlib==3.7.0
+numpy==1.23.5
+opencv_python==4.7.0.72
+pandas==1.5.3
+Pillow==9.4.0
+scikit_learn==1.2.1
+scipy==1.10.0
+supervision==0.3.0
+torch==2.0.0
+transformers==4.28.1
+webcolors==1.13
+boto3==1.26.133
